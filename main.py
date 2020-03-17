@@ -3,7 +3,7 @@ import csv
 import os
 
 # input
-csvpath = os.path.join('..','Raw_Data','election_data.csv')
+csvpath = os.path.join('../Raw_Data/election_data.csv')
 
 poll ={}
 total_votes = 0
